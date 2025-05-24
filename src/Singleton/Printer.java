@@ -30,3 +30,4 @@ public class Printer implements Cloneable{
         return new CloneNotSupportedException("Cloning not supported for singleton");
     }
 }
+
