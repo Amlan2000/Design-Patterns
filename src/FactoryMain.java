@@ -1,7 +1,5 @@
-import Factory.Doctor;
 import Factory.Employee;
 import Factory.EmployeeFactory;
-import Factory.Engineer;
 
 public class FactoryMain {
 
