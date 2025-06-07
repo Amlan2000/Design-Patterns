@@ -5,7 +5,7 @@ public class AbstractFactoryMain {
 
     public static void main(String[] args)
     {
-        System.out.printf("Hello and welcome to Abstract actory Main!\n");
+        System.out.printf("Hello and welcome to Abstract factory Main!\n");
 
         MealFactory mealFactory1 = new VegMealFactory();
         Burger burger1= mealFactory1.getBurger();
