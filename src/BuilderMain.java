@@ -10,8 +10,5 @@ public class BuilderMain {
         Car car2 = new Car.Builder("Ferrari").setColor("Red").setModel("458").build();
         car2.getCar();
 
-
-
-
     }
 }
